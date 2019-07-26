@@ -4,6 +4,7 @@
 
 ## This is a new addition and will probably break stuff
 ## please let me do stuff
+## james is alice and damian is bob and we are breaking things
 
 ## This is Ted and Alice from Alice's computer
 
