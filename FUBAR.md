@@ -1,6 +1,6 @@
 
 ## What did James say to the Ping Pong World Champion of this class?    
-## Hi Corey.
+## Hi Damian.
 =======
 ## This is Ted and Alice from Alice's computer
 
