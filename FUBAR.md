@@ -1,6 +1,12 @@
+
 ## LAlalala ehre are some changes from Bob's computer with Carol
 
 # lkalk;daslk;asfldsjfl
+
+##Bob and Carol from Bob's computer
+
+##Hi there, me sad. me tired
+
 
 
 ## What did James say to the Ping Pong World Champion of this class?
