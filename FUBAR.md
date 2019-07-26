@@ -3,7 +3,10 @@
 
 ## Hi Damian.
 
-=======
+## This is a new addition and will probably break stuff
+## please let me do stuff
+## james is alice and damian is bob and we are breaking things
+
 
 ## This is Ted and Alice from Alice's computer
 
@@ -39,7 +42,22 @@
 
 ## N
 
+
 ## A
+
+## N
+
+## A
+
+
+## Aaaaaaa
+## N
+## Aaaaaaaaaaaaa
+
+## N
+
+## A
+
 
 ## N
 
@@ -51,13 +69,11 @@
 
 ## N
 
+## Nnnnnnnnnnnnn
 ## A
-
-## N
-
+## Nnnnnnnnnnnn
 ## A
-
-## N
+## Nnnnnnnnnnnn
 
 ## A
 
